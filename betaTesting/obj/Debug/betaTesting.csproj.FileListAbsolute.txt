@@ -1,0 +1,128 @@
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\bin\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\bin\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.Form1.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.NewNote.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.Properties.Resources.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.RemainderGUI.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderForm.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderSetTimeGUI.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.ReviewGUI.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.Testing.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.csproj.GenerateResource.Cache
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.csprojResolveAssemblyReference.cache
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.NoteShow.resources
+E:\shakil\aiub\c#\mid\code\Windows form beta testing v.1\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UpdateNoteGUI.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+C:\Users\wHD\Documents\betaTesting\betaTesting\bin\Debug\betaTesting.exe
+C:\Users\wHD\Documents\betaTesting\betaTesting\bin\Debug\betaTesting.pdb
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.csprojResolveAssemblyReference.cache
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.Form1.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.NewNote.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.Properties.Resources.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.RemainderGUI.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderForm.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderSetTimeGUI.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.ReviewGUI.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.NoteShow.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.Testing.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UpdateNoteGUI.resources
+C:\Users\wHD\Documents\betaTesting\betaTesting\obj\Debug\betaTesting.csproj.GenerateResource.Cache
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\bin\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\bin\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.csprojResolveAssemblyReference.cache
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.Form1.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.NewNote.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.Properties.Resources.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.RemainderGUI.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderForm.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderSetTimeGUI.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.ReviewGUI.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.NoteShow.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.Testing.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UpdateNoteGUI.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.csproj.GenerateResource.Cache
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryShow.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryPictureShow.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.ImageSlideShow.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.SignIn.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.AccountRecovery.resources
+E:\shakil\aiub\c#\mid\code\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UserinformationRecovery.resources
+C:\Users\wHD\Downloads\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+C:\Users\wHD\Downloads\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+C:\Users\wHD\Downloads\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\bin\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\bin\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.csprojResolveAssemblyReference.cache
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.Form1.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.NewNote.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.Properties.Resources.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.RemainderGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderForm.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderSetTimeGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.ReviewGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.AccountRecovery.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryPictureShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.ImageSlideShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.NoteShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.SignIn.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.Testing.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UpdateNoteGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UserinformationRecovery.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\betaTesting\betaTesting\obj\Debug\betaTesting.csproj.GenerateResource.Cache
+C:\Users\wHD\Desktop\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+C:\Users\wHD\Desktop\betaTesting\betaTesting\bin\Debug\betaTesting.exe
+C:\Users\wHD\Desktop\betaTesting\betaTesting\bin\Debug\betaTesting.pdb
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.csprojResolveAssemblyReference.cache
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.NewNote.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.Properties.Resources.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.RemainderGUI.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderForm.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderSetTimeGUI.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.ReviewGUI.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.AccountRecovery.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryPictureShow.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryShow.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.Form1.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.ImageSlideShow.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.NoteShow.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.SignIn.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UpdateNoteGUI.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UserinformationRecovery.resources
+C:\Users\wHD\Desktop\betaTesting\betaTesting\obj\Debug\betaTesting.csproj.GenerateResource.Cache
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\bin\Debug\betaTesting.exe.config
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\bin\Debug\betaTesting.exe
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\bin\Debug\betaTesting.pdb
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.csprojResolveAssemblyReference.cache
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.NewNote.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.Properties.Resources.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.RemainderGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderForm.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.ReminderSetTimeGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.ReviewGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.AccountRecovery.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryPictureShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.GalleryShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.Form1.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.ImageSlideShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.NoteShow.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.SignIn.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UpdateNoteGUI.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.UserinformationRecovery.resources
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.csproj.GenerateResource.Cache
+E:\shakil\aiub\c#\mid\code\complete background beta testing\complete from wahid\betaTesting\betaTesting\obj\Debug\betaTesting.UserInterface.Testing.resources

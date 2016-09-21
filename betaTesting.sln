@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "betaTesting", "betaTesting\betaTesting.csproj", "{E6856E52-4DC5-4B4D-909D-956D539F92EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6856E52-4DC5-4B4D-909D-956D539F92EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6856E52-4DC5-4B4D-909D-956D539F92EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6856E52-4DC5-4B4D-909D-956D539F92EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6856E52-4DC5-4B4D-909D-956D539F92EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6856E52-4DC5-4B4D-909D-956D539F92EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>betaTesting</RootNamespace>
+    <AssemblyName>betaTesting</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataLayer\NewNoteData.cs" />
+    <Compile Include="FrameWork\DataAccess.cs" />
+    <Compile Include="UserInterface\NewNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\NewNote.Designer.cs">
+      <DependentUpon>NewNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\RemainderGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\RemainderGUI.Designer.cs">
+      <DependentUpon>RemainderGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\ReminderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\ReminderForm.Designer.cs">
+      <DependentUpon>ReminderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\ReminderSetTimeGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\ReminderSetTimeGUI.Designer.cs">
+      <DependentUpon>ReminderSetTimeGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\ReviewGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\ReviewGUI.Designer.cs">
+      <DependentUpon>ReviewGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\AccountRecovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\AccountRecovery.Designer.cs">
+      <DependentUpon>AccountRecovery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\GalleryPictureShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\GalleryPictureShow.Designer.cs">
+      <DependentUpon>GalleryPictureShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\GalleryShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\GalleryShow.Designer.cs">
+      <DependentUpon>GalleryShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\ImageSlideShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\ImageSlideShow.Designer.cs">
+      <DependentUpon>ImageSlideShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\NoteShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\NoteShow.Designer.cs">
+      <DependentUpon>NoteShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\Testing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\Testing.Designer.cs">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\UpdateNoteGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\UpdateNoteGUI.Designer.cs">
+      <DependentUpon>UpdateNoteGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserInterface\UserinformationRecovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserInterface\UserinformationRecovery.Designer.cs">
+      <DependentUpon>UserinformationRecovery.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserInterface\NewNote.resx">
+      <DependentUpon>NewNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\RemainderGUI.resx">
+      <DependentUpon>RemainderGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\ReminderForm.resx">
+      <DependentUpon>ReminderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\ReminderSetTimeGUI.resx">
+      <DependentUpon>ReminderSetTimeGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\ReviewGUI.resx">
+      <DependentUpon>ReviewGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\AccountRecovery.resx">
+      <DependentUpon>AccountRecovery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\GalleryPictureShow.resx">
+      <DependentUpon>GalleryPictureShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\GalleryShow.resx">
+      <DependentUpon>GalleryShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\ImageSlideShow.resx">
+      <DependentUpon>ImageSlideShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\NoteShow.resx">
+      <DependentUpon>NoteShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\Testing.resx">
+      <DependentUpon>Testing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\UpdateNoteGUI.resx">
+      <DependentUpon>UpdateNoteGUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserInterface\UserinformationRecovery.resx">
+      <DependentUpon>UserinformationRecovery.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Final DW.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bck_btn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.button.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.button1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bck_btn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Final DW1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right arrow 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\left arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteicon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-1-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross-small-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_final.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow-Back-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm-Backward-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Alarm-Forward-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Zoom-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lock.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notes.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notes - Copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\n.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
